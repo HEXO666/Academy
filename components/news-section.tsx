@@ -10,10 +10,10 @@ const news = [
     id: 1,
     title: "Grand dîner annuel de l'Académie Marocaine de Gastronomie",
     excerpt:
-      "L'Académie a organisé son dîner annuel au Palais Soleiman, réunissant membres et personnalités autour d'un menu d'exception.",
+      "L'Académie a organisé son dîner  au Palais Zahia, à l'occasion du nouvel an Amazigh.",
     content:
       "Le 15 novembre dernier, l'Académie Marocaine de Gastronomie a tenu son traditionnel dîner annuel dans le cadre somptueux du Palais Soleiman à Marrakech. Cet événement prestigieux a réuni plus de 150 convives, dont les membres de l'Académie, des chefs renommés, des personnalités du monde de la culture et des représentants institutionnels.\n\nLe menu, élaboré par le chef étoilé Youssef Benjelloun, membre de l'Académie, proposait une réinterprétation raffinée des classiques de la cuisine marocaine. Parmi les plats servis figuraient une pastilla de pigeon aux amandes caramélisées, un tajine d'agneau aux coings et aux épices rares, ainsi qu'une sélection de pâtisseries traditionnelles revisitées.\n\nLors de cette soirée, le président de l'Académie, Mohammed Alaoui, a présenté les projets réalisés au cours de l'année écoulée et a annoncé les initiatives à venir pour 2024, notamment un programme de documentation des recettes en voie de disparition dans les régions rurales du Maroc.",
-    date: "15 novembre 2023",
+    date: " 22 janvier 2023 ",
     image: "/Moroccan-Food.jpg",
     category: "Événements",
   },
