@@ -34,10 +34,10 @@ export function AboutSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1">
             <h2 className="about-animate animate-fade-in heading-lg text-[var(--primary)] mb-6">
-              L'Académie Marocaine de Gastronomie
+              Fondation Académie Marocaine de la Gastronomie
             </h2>
             <p className="about-animate animate-fade-in text-lg mb-6">
-              Fondée en 1973, l'Académie Marocaine de Gastronomie est une association à but non lucratif qui a pour
+              Fondée en 2022, l'Académie Marocaine de Gastronomie est une association à but non lucratif qui a pour
               mission de promouvoir la gastronomie marocaine, de préserver son patrimoine culinaire et de contribuer à
               son rayonnement international.
             </p>
