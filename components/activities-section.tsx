@@ -10,7 +10,7 @@ const activities = [
     id: 1,
     title: "Compétition Culinaire",
     description: "Organisation de compétitions culinaires palpitantes où des chefs passionnés s'affrontent pour créer des plats exceptionnels, célébrant l'art de la cuisine marocaine dans une ambiance dynamique et conviviale.",
-    image: "/CookingClass.jpg",
+    image: "/challenge.jpg",
     link: "/activites/diners",
   },
   {
