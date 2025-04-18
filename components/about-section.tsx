@@ -37,7 +37,7 @@ export function AboutSection() {
               L'Académie Marocaine de Gastronomie
             </h2>
             <p className="about-animate animate-fade-in text-lg mb-6">
-              Fondée en 1973, l'Académie Marocaine de Gastronomie est une association à but non lucratif qui a pour
+              Fondée en 2022, l'Académie Marocaine de Gastronomie est une association à but non lucratif qui a pour
               mission de promouvoir la gastronomie marocaine, de préserver son patrimoine culinaire et de contribuer à
               son rayonnement international.
             </p>
